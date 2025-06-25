@@ -1,0 +1,11 @@
+track_name,artist(s)_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability_%,valence_%,energy_%,acousticness_%,instrumentalness_%,liveness_%,speechiness_%
+Blinding Lights,The Weeknd,1,2019,11,29,43899,69,3703895074,672,199,"3,421",20,nan,171,C#,Major,50,38,80,0,0,9,7
+Shape of You,Ed Sheeran,1,2017,1,6,32181,10,3562543890,33,0,"6,808",7,0,96,C#,Minor,83,93,65,58,0,9,8
+Someone You Loved,Lewis Capaldi,1,2018,11,8,17836,53,2887241814,440,125,"1,800",0,nan,110,C#,Major,50,45,41,75,0,11,3
+Dance Monkey,Tones and I,1,2019,5,10,24529,0,2864791672,533,167,"3,595",6,nan,98,F#,Minor,82,54,59,69,0,18,10
+Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",2,2018,10,9,24094,78,2808096550,372,117,843,4,69,90,D,Major,76,91,50,54,0,7,5
+One Dance,"Drake, WizKid, Kyla",3,2016,4,4,43257,24,2713922350,433,107,"3,631",0,26,104,C#,Major,77,36,63,1,0,36,5
+STAY (with Justin Bieber),"Justin Bieber, The Kid Laroi",2,2021,7,9,17050,36,2665343922,492,99,798,31,0,170,C#,Major,59,48,76,4,0,10,5
+Believer,Imagine Dragons,1,2017,1,31,18986,23,2594040133,250,121,"2,969",10,31,125,A#,Minor,77,74,78,4,0,23,11
+Closer,"The Chainsmokers, Halsey",2,2016,5,31,28032,0,2591224264,315,159,"2,179",0,44,95,G#,Major,75,64,52,41,0,11,3
+Starboy,"The Weeknd, Daft Punk",2,2016,9,21,29536,79,2565529693,281,137,"2,445",1,140,186,G,Major,68,49,59,16,0,13,28

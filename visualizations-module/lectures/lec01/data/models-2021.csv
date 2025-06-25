@@ -1,0 +1,775 @@
+Manufacturer,Brand,Model,Displacement,Cylinders,MPG,Wheel
+BMW,BMW,228i Gran Coupe,2.0,4,28,"2-Wheel Drive, Front"
+BMW,BMW,228i xDrive Gran Coupe,2.0,4,27,All Wheel Drive
+BMW,BMW,230i Convertible,2.0,4,27,"2-Wheel Drive, Rear"
+BMW,BMW,230i Coupe,2.0,4,28,"2-Wheel Drive, Rear"
+BMW,BMW,230i xDrive Convertible,2.0,4,24,All Wheel Drive
+BMW,BMW,230i xDrive Coupe,2.0,4,24,All Wheel Drive
+BMW,BMW,330i,2.0,4,30,"2-Wheel Drive, Rear"
+BMW,BMW,330i xDrive,2.0,4,28,All Wheel Drive
+BMW,BMW,430i Coupe,2.0,4,29,"2-Wheel Drive, Rear"
+BMW,BMW,430i xDrive Coupe,2.0,4,27,All Wheel Drive
+BMW,BMW,530i,2.0,4,28,"2-Wheel Drive, Rear"
+BMW,BMW,530i xDrive,2.0,4,27,All Wheel Drive
+BMW,BMW,540i,3.0,6,27,"2-Wheel Drive, Rear"
+BMW,BMW,540i xDrive,3.0,6,26,All Wheel Drive
+BMW,BMW,740i,3.0,6,25,"2-Wheel Drive, Rear"
+BMW,BMW,740i xDrive,3.0,6,23,All Wheel Drive
+BMW,BMW,750i xDrive,4.4,8,19,All Wheel Drive
+BMW,BMW,840i Convertible,3.0,6,25,"2-Wheel Drive, Rear"
+BMW,BMW,840i Coupe,3.0,6,25,"2-Wheel Drive, Rear"
+BMW,BMW,840i Gran Coupe,3.0,6,25,"2-Wheel Drive, Rear"
+BMW,BMW,840i xDrive Convertible,3.0,6,23,All Wheel Drive
+BMW,BMW,840i xDrive Coupe,3.0,6,23,All Wheel Drive
+BMW,BMW,840i xDrive Gran Coupe,3.0,6,23,All Wheel Drive
+BMW,BMW,ALPINA XB7,4.4,8,17,All Wheel Drive
+BMW,BMW,Alpina B7,4.4,8,19,All Wheel Drive
+BMW,BMW,M2 Competition Coupe,3.0,6,19,"2-Wheel Drive, Rear"
+BMW,BMW,M235i xDrive Gran Coupe,2.0,4,26,All Wheel Drive
+BMW,BMW,M240i Convertible,3.0,6,24,"2-Wheel Drive, Rear"
+BMW,BMW,M240i Coupe,3.0,6,24,"2-Wheel Drive, Rear"
+BMW,BMW,M240i xDrive Convertible,3.0,6,24,All Wheel Drive
+BMW,BMW,M240i xDrive Coupe,3.0,6,24,All Wheel Drive
+BMW,BMW,M3,3.0,6,19,"2-Wheel Drive, Rear"
+BMW,BMW,M3 Competition,3.0,6,19,"2-Wheel Drive, Rear"
+BMW,BMW,M340i,3.0,6,26,"2-Wheel Drive, Rear"
+BMW,BMW,M340i xDrive,3.0,6,25,All Wheel Drive
+BMW,BMW,M4 Competition Coupe,3.0,6,19,"2-Wheel Drive, Rear"
+BMW,BMW,M4 Coupe,3.0,6,19,"2-Wheel Drive, Rear"
+BMW,BMW,M440i xDrive Coupe,3.0,6,25,All Wheel Drive
+BMW,BMW,M5,4.4,8,17,All Wheel Drive
+BMW,BMW,M5 Competition,4.4,8,17,All Wheel Drive
+BMW,BMW,M550i xDrive,4.4,8,20,All Wheel Drive
+BMW,BMW,M760i xDrive,6.6,12,16,All Wheel Drive
+BMW,BMW,M8 Competition Convertible,4.4,8,17,All Wheel Drive
+BMW,BMW,M8 Competition Gran Coupe,4.4,8,17,All Wheel Drive
+BMW,BMW,M8 Gran Coupe,4.4,8,17,All Wheel Drive
+BMW,BMW,M850i xDrive Convertible,4.4,8,19,All Wheel Drive
+BMW,BMW,M850i xDrive Coupe,4.4,8,20,All Wheel Drive
+BMW,BMW,M850i xDrive Gran Coupe,4.4,8,19,All Wheel Drive
+BMW,BMW,X1 sDrive28i,2.0,4,27,"2-Wheel Drive, Front"
+BMW,BMW,X1 xDrive28i,2.0,4,26,All Wheel Drive
+BMW,BMW,X2 M35i,2.0,4,26,All Wheel Drive
+BMW,BMW,X2 sDrive28i,2.0,4,27,"2-Wheel Drive, Front"
+BMW,BMW,X2 xDrive28i,2.0,4,27,All Wheel Drive
+BMW,BMW,X3 M,3.0,6,16,All Wheel Drive
+BMW,BMW,X3 M Competition,3.0,6,16,All Wheel Drive
+BMW,BMW,X3 M40i,3.0,6,23,All Wheel Drive
+BMW,BMW,X3 sDrive30i,2.0,4,27,"2-Wheel Drive, Rear"
+BMW,BMW,X3 xDrive30i,2.0,4,25,All Wheel Drive
+BMW,BMW,X4 M,3.0,6,16,All Wheel Drive
+BMW,BMW,X4 M Competition,3.0,6,16,All Wheel Drive
+BMW,BMW,X4 M40i,3.0,6,23,All Wheel Drive
+BMW,BMW,X4 xDrive30i,2.0,4,25,All Wheel Drive
+BMW,BMW,X5 M,4.4,8,15,All Wheel Drive
+BMW,BMW,X5 M Competition,4.4,8,15,All Wheel Drive
+BMW,BMW,X5 M50i,4.4,8,18,All Wheel Drive
+BMW,BMW,X5 sDrive40i,3.0,6,23,"2-Wheel Drive, Rear"
+BMW,BMW,X5 xDrive40i,3.0,6,23,All Wheel Drive
+BMW,BMW,X6 M,4.4,8,15,All Wheel Drive
+BMW,BMW,X6 M Competition,4.4,8,15,All Wheel Drive
+BMW,BMW,X6 M50i,4.4,8,18,All Wheel Drive
+BMW,BMW,X6 sDrive40i,3.0,6,23,"2-Wheel Drive, Rear"
+BMW,BMW,X6 xDrive40i,3.0,6,23,All Wheel Drive
+BMW,BMW,X7 M50i,4.4,8,17,All Wheel Drive
+BMW,BMW,X7 xDrive40i,3.0,6,21,All Wheel Drive
+BMW,BMW,Z4 M40i,3.0,6,25,"2-Wheel Drive, Rear"
+BMW,BMW,Z4 sDrive30i,2.0,4,28,"2-Wheel Drive, Rear"
+BMW,Mini,COOPER CONVERTIBLE,1.5,3,31,"2-Wheel Drive, Front"
+BMW,Mini,COOPER COUNTRYMAN,1.5,3,29,"2-Wheel Drive, Front"
+BMW,Mini,COOPER COUNTRYMAN ALL4,1.5,3,27,All Wheel Drive
+BMW,Mini,COOPER HARDTOP 2 DOOR,1.5,3,31,"2-Wheel Drive, Front"
+BMW,Mini,COOPER HARDTOP 4 DOOR,1.5,3,31,"2-Wheel Drive, Front"
+BMW,Mini,COOPER S CLUBMAN,2.0,4,29,"2-Wheel Drive, Front"
+BMW,Mini,COOPER S CLUBMAN ALL4,2.0,4,26,All Wheel Drive
+BMW,Mini,COOPER S CONVERTIBLE,2.0,4,29,"2-Wheel Drive, Front"
+BMW,Mini,COOPER S COUNTRYMAN,2.0,4,28,"2-Wheel Drive, Front"
+BMW,Mini,COOPER S COUNTRYMAN ALL4,2.0,4,26,All Wheel Drive
+BMW,Mini,COOPER S HARDTOP 2 DOOR,2.0,4,30,"2-Wheel Drive, Front"
+BMW,Mini,COOPER S HARDTOP 4 DOOR,2.0,4,30,"2-Wheel Drive, Front"
+BMW,Mini,JCW COUNTRYMAN ALL4,2.0,4,26,All Wheel Drive
+BMW,Mini,JOHN COOPER WORKS CLUBMAN ALL4,2.0,4,26,All Wheel Drive
+BMW,Mini,JOHN COOPER WORKS CONVERTIBLE,2.0,4,28,"2-Wheel Drive, Front"
+BMW,Mini,JOHN COOPER WORKS HARDTOP,2.0,4,29,"2-Wheel Drive, Front"
+BMW,Mini,John Cooper Works GP,2.0,4,26,"2-Wheel Drive, Front"
+BMW,TOYOTA,Supra 2.0,2.0,4,28,"2-Wheel Drive, Rear"
+BMW,TOYOTA,Supra 3.0,3.0,6,25,"2-Wheel Drive, Rear"
+FCA US LLC,ALFA ROMEO,Giulia,2.0,4,27,"2-Wheel Drive, Rear"
+FCA US LLC,ALFA ROMEO,Giulia AWD,2.0,4,26,All Wheel Drive
+FCA US LLC,ALFA ROMEO,Stelvio,2.0,4,25,"2-Wheel Drive, Rear"
+FCA US LLC,ALFA ROMEO,Stelvio AWD,2.0,4,24,All Wheel Drive
+FCA US LLC,Chrysler,300,3.6,6,23,"2-Wheel Drive, Rear"
+FCA US LLC,Chrysler,300 AWD,3.6,6,21,All Wheel Drive
+FCA US LLC,Chrysler,Pacifica,3.6,6,22,"2-Wheel Drive, Front"
+FCA US LLC,Chrysler,Pacifica AWD,3.6,6,20,All Wheel Drive
+FCA US LLC,Chrysler,Voyager,3.6,6,22,"2-Wheel Drive, Front"
+FCA US LLC,Dodge,Challenger,3.6,6,23,"2-Wheel Drive, Rear"
+FCA US LLC,Dodge,Challenger AWD,3.6,6,21,All Wheel Drive
+FCA US LLC,Dodge,Challenger SRT,6.2,8,16,"2-Wheel Drive, Rear"
+FCA US LLC,Dodge,Challenger SRT Widebody,6.2,8,15,"2-Wheel Drive, Rear"
+FCA US LLC,Dodge,Challenger Widebody,6.4,8,18,"2-Wheel Drive, Rear"
+FCA US LLC,Dodge,Charger,3.6,6,23,"2-Wheel Drive, Rear"
+FCA US LLC,Dodge,Charger AWD,3.6,6,21,All Wheel Drive
+FCA US LLC,Dodge,Charger SRT Widebody,6.2,8,15,"2-Wheel Drive, Rear"
+FCA US LLC,Dodge,Charger Widebody,6.4,8,18,"2-Wheel Drive, Rear"
+FCA US LLC,Dodge,Durango AWD,3.6,6,21,All Wheel Drive
+FCA US LLC,Dodge,Durango RWD,3.6,6,21,"2-Wheel Drive, Rear"
+FCA US LLC,Dodge,Durango SRT AWD,6.2,8,13,All Wheel Drive
+FCA US LLC,FIAT,500X AWD,1.3,4,26,All Wheel Drive
+FCA US LLC,Jeep,Cherokee 4X4,2.0,4,24,All Wheel Drive
+FCA US LLC,Jeep,Cherokee 4x4 Active Drive II,2.0,4,23,All Wheel Drive
+FCA US LLC,Jeep,Cherokee FWD,2.0,4,26,"2-Wheel Drive, Front"
+FCA US LLC,Jeep,Cherokee Trailhawk 4X4,3.2,6,21,All Wheel Drive
+FCA US LLC,Jeep,Compass 4X2,2.4,4,25,"2-Wheel Drive, Front"
+FCA US LLC,Jeep,Compass 4X4,2.4,4,25,All Wheel Drive
+FCA US LLC,Jeep,Gladiator 4X4,3.6,6,19,4-Wheel Drive
+FCA US LLC,Jeep,Gladiator EcoDiesel 4x4,3.0,6,24,4-Wheel Drive
+FCA US LLC,Jeep,Gladiator Rubicon EcoDiesel 4x4,3.0,6,24,4-Wheel Drive
+FCA US LLC,Jeep,Grand Cherokee 4X2,3.6,6,21,"2-Wheel Drive, Rear"
+FCA US LLC,Jeep,Grand Cherokee 4X4,3.6,6,21,All Wheel Drive
+FCA US LLC,Jeep,Grand Cherokee SRT 4x4,6.4,8,15,All Wheel Drive
+FCA US LLC,Jeep,Grand Cherokee Trackhawk 4x4,6.2,8,13,All Wheel Drive
+FCA US LLC,Jeep,Renegade 4x2,1.3,4,27,"2-Wheel Drive, Front"
+FCA US LLC,Jeep,Renegade 4x4,1.3,4,26,All Wheel Drive
+FCA US LLC,Jeep,Renegade Trailhawk 4x4,1.3,4,24,All Wheel Drive
+FCA US LLC,Jeep,Wrangler 2dr 4X4,2.0,4,23,4-Wheel Drive
+FCA US LLC,Jeep,Wrangler 4dr 4X4,2.0,4,22,4-Wheel Drive
+FCA US LLC,Jeep,Wrangler 4dr EcoDiesel 4x4,3.0,6,25,4-Wheel Drive
+FCA US LLC,Jeep,Wrangler Rubic 4dr EcoDiesel 4x4,3.0,6,23,4-Wheel Drive
+FCA US LLC,RAM,1500 4X2,3.0,6,26,"2-Wheel Drive, Rear"
+FCA US LLC,RAM,1500 4X4,3.0,6,24,4-Wheel Drive
+FCA US LLC,RAM,1500 Classic 4X2,3.6,6,20,"2-Wheel Drive, Rear"
+FCA US LLC,RAM,1500 Classic 4X4,3.6,6,19,4-Wheel Drive
+FCA US LLC,RAM,1500 HFE 4X2,3.0,6,26,"2-Wheel Drive, Rear"
+FCA US LLC,RAM,1500 TRX 4x4,6.2,8,12,4-Wheel Drive
+FCA US LLC,RAM,Promaster City,2.4,4,24,"2-Wheel Drive, Front"
+Ferrari,"Ferrari North America, Inc.",812 GTS,6.5,12,13,"2-Wheel Drive, Rear"
+Ferrari,"Ferrari North America, Inc.",812 Superfast,6.5,12,13,"2-Wheel Drive, Rear"
+Ferrari,"Ferrari North America, Inc.",F8 Spider,3.9,8,16,"2-Wheel Drive, Rear"
+Ferrari,"Ferrari North America, Inc.",F8 Tributo,3.9,8,16,"2-Wheel Drive, Rear"
+Ferrari,"Ferrari North America, Inc.",Portofino,3.9,8,18,"2-Wheel Drive, Rear"
+Ferrari,"Ferrari North America, Inc.",Portofino M,3.9,8,19,"2-Wheel Drive, Rear"
+Ferrari,"Ferrari North America, Inc.",Roma,3.9,8,19,"2-Wheel Drive, Rear"
+Ford Motor Company,Ford,BRONCO SPORT 4WD,1.5,3,26,All Wheel Drive
+Ford Motor Company,Ford,ECOSPORT AWD,2.0,4,25,All Wheel Drive
+Ford Motor Company,Ford,ECOSPORT FWD,1.0,3,28,"2-Wheel Drive, Front"
+Ford Motor Company,Ford,EDGE AWD,2.0,4,23,All Wheel Drive
+Ford Motor Company,Ford,EDGE FWD,2.0,4,24,"2-Wheel Drive, Front"
+Ford Motor Company,Ford,ESCAPE AWD,1.5,3,28,All Wheel Drive
+Ford Motor Company,Ford,ESCAPE AWD HEV,2.5,4,40,Part-time 4-Wheel Drive
+Ford Motor Company,Ford,ESCAPE FWD,1.5,3,30,"2-Wheel Drive, Front"
+Ford Motor Company,Ford,ESCAPE FWD HEV,2.5,4,41,"2-Wheel Drive, Front"
+Ford Motor Company,Ford,EXPEDITION 2WD,3.5,6,19,"2-Wheel Drive, Rear"
+Ford Motor Company,Ford,EXPEDITION 4WD,3.5,6,19,Part-time 4-Wheel Drive
+Ford Motor Company,Ford,EXPEDITION MAX 2WD,3.5,6,19,"2-Wheel Drive, Rear"
+Ford Motor Company,Ford,EXPEDITION MAX 4WD,3.5,6,18,Part-time 4-Wheel Drive
+Ford Motor Company,Ford,EXPLORER AWD,2.3,4,23,Part-time 4-Wheel Drive
+Ford Motor Company,Ford,EXPLORER FFV AWD,3.3,6,19,Part-time 4-Wheel Drive
+Ford Motor Company,Ford,EXPLORER HEV AWD,3.3,6,25,Part-time 4-Wheel Drive
+Ford Motor Company,Ford,EXPLORER HEV RWD,3.3,6,27,"2-Wheel Drive, Rear"
+Ford Motor Company,Ford,EXPLORER RWD,2.3,4,24,"2-Wheel Drive, Rear"
+Ford Motor Company,Ford,F150 PICKUP 2WD,2.7,6,22,"2-Wheel Drive, Rear"
+Ford Motor Company,Ford,F150 PICKUP 2WD FFV,3.3,6,21,"2-Wheel Drive, Rear"
+Ford Motor Company,Ford,F150 PICKUP 2WD HEV,3.5,6,25,"2-Wheel Drive, Rear"
+Ford Motor Company,Ford,F150 PICKUP 4WD,2.7,6,21,Part-time 4-Wheel Drive
+Ford Motor Company,Ford,F150 PICKUP 4WD FFV,3.3,6,20,Part-time 4-Wheel Drive
+Ford Motor Company,Ford,F150 PICKUP 4WD HEV,3.5,6,24,Part-time 4-Wheel Drive
+Ford Motor Company,Ford,FORD GT,3.5,6,14,"2-Wheel Drive, Rear"
+Ford Motor Company,Ford,MUSTANG,2.3,4,25,"2-Wheel Drive, Rear"
+Ford Motor Company,Ford,MUSTANG CONVERTIBLE,2.3,4,23,"2-Wheel Drive, Rear"
+Ford Motor Company,Ford,MUSTANG HO CONVERTIBLE,2.3,4,22,"2-Wheel Drive, Rear"
+Ford Motor Company,Ford,MUSTANG HO COUPE,2.3,4,23,"2-Wheel Drive, Rear"
+Ford Motor Company,Ford,MUSTANG MACH 1,5.0,8,18,"2-Wheel Drive, Rear"
+Ford Motor Company,Ford,RANGER 2WD,2.3,4,23,"2-Wheel Drive, Rear"
+Ford Motor Company,Ford,RANGER 2WD INCOMPLETE,2.3,4,18,"2-Wheel Drive, Rear"
+Ford Motor Company,Ford,RANGER 4WD,2.3,4,22,Part-time 4-Wheel Drive
+Ford Motor Company,Ford,RANGER TREMOR 4WD,2.3,4,19,Part-time 4-Wheel Drive
+Ford Motor Company,Ford,SHELBY GT500 MUSTANG,5.2,8,14,"2-Wheel Drive, Rear"
+Ford Motor Company,Ford,TRANSIT CONNECT USPS,2.5,4,22,"2-Wheel Drive, Front"
+Ford Motor Company,Ford,TRANSIT CONNECT VAN FFV,2.0,4,25,"2-Wheel Drive, Front"
+Ford Motor Company,Ford,TRANSIT CONNECT WAGON LWB FFV,2.0,4,26,"2-Wheel Drive, Front"
+Ford Motor Company,Ford,TRANSIT T150 WAGON 2WD FFV,3.5,6,16,"2-Wheel Drive, Rear"
+Ford Motor Company,Ford,TRANSIT T150 WAGON 4WD FFV,3.5,6,16,All Wheel Drive
+Ford Motor Company,Ford,Transit Connect Van FWD,2.0,4,25,"2-Wheel Drive, Front"
+Ford Motor Company,Ford,Transit Connect Wagon LWB FWD,2.0,4,26,"2-Wheel Drive, Front"
+Ford Motor Company,Lincoln,AVIATOR AWD,3.0,6,20,Part-time 4-Wheel Drive
+Ford Motor Company,Lincoln,AVIATOR RWD,3.0,6,21,"2-Wheel Drive, Rear"
+Ford Motor Company,Lincoln,CORSAIR AWD,2.0,4,24,All Wheel Drive
+Ford Motor Company,Lincoln,CORSAIR FWD,2.0,4,25,"2-Wheel Drive, Front"
+Ford Motor Company,Lincoln,NAUTILUS AWD,2.0,4,22,All Wheel Drive
+Ford Motor Company,Lincoln,NAUTILUS FWD,2.0,4,23,"2-Wheel Drive, Front"
+Ford Motor Company,Lincoln,NAVIGATOR 2WD,3.5,6,18,"2-Wheel Drive, Rear"
+Ford Motor Company,Lincoln,NAVIGATOR 4WD,3.5,6,17,Part-time 4-Wheel Drive
+Ford Motor Company,Lincoln,NAVIGATOR L 2WD,3.5,6,18,"2-Wheel Drive, Rear"
+General Motors,Buick,ENCLAVE AWD,3.6,6,20,All Wheel Drive
+General Motors,Buick,ENCLAVE FWD,3.6,6,21,"2-Wheel Drive, Front"
+General Motors,Buick,ENCORE AWD,1.4,4,26,All Wheel Drive
+General Motors,Buick,ENCORE FWD,1.4,4,27,"2-Wheel Drive, Front"
+General Motors,Buick,ENCORE GX AWD,1.3,3,28,All Wheel Drive
+General Motors,Buick,ENCORE GX FWD,1.2,3,29,"2-Wheel Drive, Front"
+General Motors,Buick,ENVISION AWD,2.0,4,25,All Wheel Drive
+General Motors,Buick,ENVISION FWD,2.0,4,26,"2-Wheel Drive, Front"
+General Motors,Cadillac,CT4,2.0,4,27,"2-Wheel Drive, Rear"
+General Motors,Cadillac,CT4 AWD,2.0,4,26,All Wheel Drive
+General Motors,Cadillac,CT4 V,2.7,4,23,"2-Wheel Drive, Rear"
+General Motors,Cadillac,CT4 V AWD,2.7,4,23,All Wheel Drive
+General Motors,Cadillac,CT5,2.0,4,26,"2-Wheel Drive, Rear"
+General Motors,Cadillac,CT5 AWD,2.0,4,25,All Wheel Drive
+General Motors,Cadillac,CT5 V,3.0,6,21,"2-Wheel Drive, Rear"
+General Motors,Cadillac,CT5 V AWD,3.0,6,21,All Wheel Drive
+General Motors,Cadillac,ESCALADE 2WD,3.0,6,23,"2-Wheel Drive, Rear"
+General Motors,Cadillac,ESCALADE 4WD,3.0,6,22,4-Wheel Drive
+General Motors,Cadillac,XT4 AWD,2.0,4,24,All Wheel Drive
+General Motors,Cadillac,XT4 FWD,2.0,4,26,"2-Wheel Drive, Front"
+General Motors,Cadillac,XT5 AWD,2.0,4,23,All Wheel Drive
+General Motors,Cadillac,XT5 FWD,2.0,4,24,"2-Wheel Drive, Front"
+General Motors,Cadillac,XT5 HEARSE AWD,2.0,4,21,All Wheel Drive
+General Motors,Cadillac,XT5 HEARSE FWD,2.0,4,21,"2-Wheel Drive, Front"
+General Motors,Cadillac,XT5 LIMO AWD,2.0,4,21,All Wheel Drive
+General Motors,Cadillac,XT5 LIMO FWD,2.0,4,21,"2-Wheel Drive, Front"
+General Motors,Cadillac,XT6 AWD,2.0,4,23,All Wheel Drive
+General Motors,Cadillac,XT6 FWD,2.0,4,23,"2-Wheel Drive, Front"
+General Motors,Chevrolet,BLAZER AWD,2.0,4,24,All Wheel Drive
+General Motors,Chevrolet,BLAZER FWD,2.0,4,25,"2-Wheel Drive, Front"
+General Motors,Chevrolet,CAMARO,2.0,4,25,"2-Wheel Drive, Rear"
+General Motors,Chevrolet,COLORADO 2WD,2.5,4,22,"2-Wheel Drive, Rear"
+General Motors,Chevrolet,COLORADO 4WD,2.5,4,21,4-Wheel Drive
+General Motors,Chevrolet,COLORADO ZR2 4WD,2.8,4,19,4-Wheel Drive
+General Motors,Chevrolet,CORVETTE,6.2,8,19,"2-Wheel Drive, Rear"
+General Motors,Chevrolet,EQUINOX AWD,1.5,4,27,All Wheel Drive
+General Motors,Chevrolet,EQUINOX FWD,1.5,4,28,"2-Wheel Drive, Front"
+General Motors,Chevrolet,MALIBU,1.5,4,32,"2-Wheel Drive, Front"
+General Motors,Chevrolet,SILVERADO 2WD,2.7,4,21,"2-Wheel Drive, Rear"
+General Motors,Chevrolet,SILVERADO 2WD CAB CHASSIS,4.3,6,17,"2-Wheel Drive, Rear"
+General Motors,Chevrolet,SILVERADO 4WD,2.7,4,20,4-Wheel Drive
+General Motors,Chevrolet,SILVERADO 4WD CAB CHASSIS,4.3,6,15,4-Wheel Drive
+General Motors,Chevrolet,SILVERADO 4WD TRAILBOSS,4.3,6,16,4-Wheel Drive
+General Motors,Chevrolet,SPARK,1.4,4,33,"2-Wheel Drive, Front"
+General Motors,Chevrolet,SPARK ACTIV,1.4,4,33,"2-Wheel Drive, Front"
+General Motors,Chevrolet,SUBURBAN 2WD,3.0,6,23,"2-Wheel Drive, Rear"
+General Motors,Chevrolet,SUBURBAN 4WD,3.0,6,22,4-Wheel Drive
+General Motors,Chevrolet,TAHOE 2WD,3.0,6,24,"2-Wheel Drive, Rear"
+General Motors,Chevrolet,TAHOE 4WD,3.0,6,22,4-Wheel Drive
+General Motors,Chevrolet,TRAILBLAZER AWD,1.3,3,28,All Wheel Drive
+General Motors,Chevrolet,TRAILBLAZER FWD,1.2,3,29,"2-Wheel Drive, Front"
+General Motors,Chevrolet,TRAVERSE AWD,3.6,6,20,All Wheel Drive
+General Motors,Chevrolet,TRAVERSE FWD,3.6,6,21,"2-Wheel Drive, Front"
+General Motors,Chevrolet,TRAX AWD,1.4,4,26,All Wheel Drive
+General Motors,Chevrolet,TRAX FWD,1.4,4,27,"2-Wheel Drive, Front"
+General Motors,GMC,ACADIA AWD,2.0,4,24,All Wheel Drive
+General Motors,GMC,ACADIA FWD,2.0,4,25,"2-Wheel Drive, Front"
+General Motors,GMC,CANYON 2WD,2.5,4,22,"2-Wheel Drive, Rear"
+General Motors,GMC,CANYON 4WD,2.5,4,21,4-Wheel Drive
+General Motors,GMC,SIERRA 2WD,2.7,4,21,"2-Wheel Drive, Rear"
+General Motors,GMC,SIERRA 2WD CAB CHASSIS,4.3,6,17,"2-Wheel Drive, Rear"
+General Motors,GMC,SIERRA 4WD,2.7,4,19,4-Wheel Drive
+General Motors,GMC,SIERRA 4WD AT4,3.0,6,24,4-Wheel Drive
+General Motors,GMC,SIERRA 4WD CAB CHASSIS,4.3,6,15,4-Wheel Drive
+General Motors,GMC,TERRAIN AWD,1.5,4,26,All Wheel Drive
+General Motors,GMC,TERRAIN FWD,1.5,4,27,"2-Wheel Drive, Front"
+General Motors,GMC,YUKON 2WD,3.0,6,23,"2-Wheel Drive, Rear"
+General Motors,GMC,YUKON 4WD,3.0,6,22,4-Wheel Drive
+General Motors,GMC,YUKON XL 2WD,3.0,6,23,"2-Wheel Drive, Rear"
+General Motors,GMC,YUKON XL 4WD,3.0,6,22,4-Wheel Drive
+Honda,Acura,ILX,2.4,4,28,"2-Wheel Drive, Front"
+Honda,Acura,NSX,3.5,6,21,All Wheel Drive
+Honda,Acura,RDX AWD,2.0,4,23,All Wheel Drive
+Honda,Acura,RDX AWD A-SPEC,2.0,4,23,All Wheel Drive
+Honda,Acura,RDX FWD,2.0,4,24,"2-Wheel Drive, Front"
+Honda,Acura,RDX FWD A-SPEC,2.0,4,24,"2-Wheel Drive, Front"
+Honda,Acura,TLX AWD,2.0,4,24,All Wheel Drive
+Honda,Acura,TLX AWD A-SPEC,2.0,4,24,All Wheel Drive
+Honda,Acura,TLX FWD,2.0,4,25,"2-Wheel Drive, Front"
+Honda,Acura,TLX FWD A-SPEC,2.0,4,25,"2-Wheel Drive, Front"
+Honda,Honda,ACCORD,1.5,4,33,"2-Wheel Drive, Front"
+Honda,Honda,ACCORD SPORT/TOURING,1.5,4,32,"2-Wheel Drive, Front"
+Honda,Honda,CIVIC 4Dr,1.5,4,36,"2-Wheel Drive, Front"
+Honda,Honda,CIVIC 5DR,1.5,4,34,"2-Wheel Drive, Front"
+Honda,Honda,CR-V AWD,1.5,4,29,All Wheel Drive
+Honda,Honda,CR-V FWD,1.5,4,30,"2-Wheel Drive, Front"
+Honda,Honda,HR-V AWD,1.8,4,29,All Wheel Drive
+Honda,Honda,HR-V FWD,1.8,4,30,"2-Wheel Drive, Front"
+Honda,Honda,INSIGHT,1.5,4,52,"2-Wheel Drive, Front"
+Honda,Honda,INSIGHT TOURING,1.5,4,48,"2-Wheel Drive, Front"
+Honda,Honda,ODYSSEY FWD,3.5,6,22,"2-Wheel Drive, Front"
+Honda,Honda,PASSPORT AWD,3.5,6,21,All Wheel Drive
+Honda,Honda,PASSPORT FWD,3.5,6,22,"2-Wheel Drive, Front"
+Honda,Honda,PILOT AWD,3.5,6,22,All Wheel Drive
+Honda,Honda,PILOT FWD,3.5,6,23,"2-Wheel Drive, Front"
+Honda,Honda,RIDGELINE AWD,3.5,6,21,All Wheel Drive
+Honda,Honda,RIDGELINE FWD,3.5,6,22,"2-Wheel Drive, Front"
+Hyundai,GENESIS,G70 AWD,2.0,4,23,All Wheel Drive
+Hyundai,GENESIS,G70 RWD,2.0,4,25,"2-Wheel Drive, Rear"
+Hyundai,GENESIS,G80 AWD,2.5,4,25,All Wheel Drive
+Hyundai,GENESIS,G80 RWD,2.5,4,26,"2-Wheel Drive, Rear"
+Hyundai,GENESIS,G90 AWD,3.3,6,20,All Wheel Drive
+Hyundai,GENESIS,G90 RWD,3.3,6,19,"2-Wheel Drive, Rear"
+Hyundai,GENESIS,GV80 AWD,2.5,4,22,All Wheel Drive
+Hyundai,GENESIS,GV80 RWD,2.5,4,23,"2-Wheel Drive, Rear"
+Hyundai,HYUNDAI MOTOR COMPANY,Accent,1.6,4,36,"2-Wheel Drive, Front"
+Hyundai,HYUNDAI MOTOR COMPANY,Elantra,1.6,4,31,"2-Wheel Drive, Front"
+Hyundai,HYUNDAI MOTOR COMPANY,Elantra Hybrid,1.6,4,50,"2-Wheel Drive, Front"
+Hyundai,HYUNDAI MOTOR COMPANY,Elantra Hybrid Blue,1.6,4,54,"2-Wheel Drive, Front"
+Hyundai,HYUNDAI MOTOR COMPANY,Ioniq,1.6,4,55,"2-Wheel Drive, Front"
+Hyundai,HYUNDAI MOTOR COMPANY,Ioniq Blue,1.6,4,59,"2-Wheel Drive, Front"
+Hyundai,HYUNDAI MOTOR COMPANY,Kona AWD,1.6,4,27,All Wheel Drive
+Hyundai,HYUNDAI MOTOR COMPANY,Kona FWD,1.6,4,30,"2-Wheel Drive, Front"
+Hyundai,HYUNDAI MOTOR COMPANY,Palisade AWD,3.8,6,21,All Wheel Drive
+Hyundai,HYUNDAI MOTOR COMPANY,Palisade FWD,3.8,6,22,"2-Wheel Drive, Front"
+Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe AWD,2.5,4,24,All Wheel Drive
+Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe FWD,2.5,4,25,"2-Wheel Drive, Front"
+Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe Hybrid,1.6,4,32,All Wheel Drive
+Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe Hybrid Blue,1.6,4,34,All Wheel Drive
+Hyundai,HYUNDAI MOTOR COMPANY,Sonata,1.6,4,30,"2-Wheel Drive, Front"
+Hyundai,HYUNDAI MOTOR COMPANY,Sonata Hybrid,2.0,4,47,"2-Wheel Drive, Front"
+Hyundai,HYUNDAI MOTOR COMPANY,Sonata Hybrid Blue,2.0,4,52,"2-Wheel Drive, Front"
+Hyundai,HYUNDAI MOTOR COMPANY,Tucson AWD,2.0,4,23,All Wheel Drive
+Hyundai,HYUNDAI MOTOR COMPANY,Tucson FWD,2.0,4,25,"2-Wheel Drive, Front"
+Hyundai,HYUNDAI MOTOR COMPANY,Veloster,1.6,4,30,"2-Wheel Drive, Front"
+Hyundai,HYUNDAI MOTOR COMPANY,Veloster N,2.0,4,22,"2-Wheel Drive, Front"
+Hyundai,HYUNDAI MOTOR COMPANY,Venue,1.6,4,31,"2-Wheel Drive, Front"
+Jaguar Land Rover L,Jaguar,E-PACE MHEV,2.0,4,23,All Wheel Drive
+Jaguar Land Rover L,Jaguar,F-PACE P340 MHEV,3.0,6,22,4-Wheel Drive
+Jaguar Land Rover L,Jaguar,F-PACE P400 MHEV,3.0,6,22,4-Wheel Drive
+Jaguar Land Rover L,Jaguar,F-PACE SVR,5.0,8,18,All Wheel Drive
+Jaguar Land Rover L,Jaguar,F-TYPE R AWD Convertible,5.0,8,18,All Wheel Drive
+Jaguar Land Rover L,Jaguar,F-TYPE R AWD Coupe,5.0,8,18,All Wheel Drive
+Jaguar Land Rover L,Jaguar,F-TYPE S AWD Convertible,3.0,6,21,All Wheel Drive
+Jaguar Land Rover L,Jaguar,F-TYPE S AWD Coupe,3.0,6,21,All Wheel Drive
+Jaguar Land Rover L,Jaguar,F-TYPE S Convertible,3.0,6,22,"2-Wheel Drive, Rear"
+Jaguar Land Rover L,Jaguar,F-TYPE S Coupe,3.0,6,22,"2-Wheel Drive, Rear"
+Jaguar Land Rover L,Land Rover,Defender 110,2.0,4,18,4-Wheel Drive
+Jaguar Land Rover L,Land Rover,Defender 110 MHEV,3.0,6,19,4-Wheel Drive
+Jaguar Land Rover L,Land Rover,Defender 90,2.0,4,19,4-Wheel Drive
+Jaguar Land Rover L,Land Rover,Defender 90 MHEV,3.0,6,19,4-Wheel Drive
+Jaguar Land Rover L,Land Rover,Discovery,2.0,4,21,4-Wheel Drive
+Jaguar Land Rover L,Land Rover,Discovery MHEV,3.0,6,21,4-Wheel Drive
+Jaguar Land Rover L,Land Rover,Discovery Sport,2.0,4,20,All Wheel Drive
+Jaguar Land Rover L,Land Rover,Evoque,2.0,4,22,All Wheel Drive
+Jaguar Land Rover L,Land Rover,Range Rover,3.0,6,24,4-Wheel Drive
+Jaguar Land Rover L,Land Rover,Range Rover LWB,5.0,8,18,4-Wheel Drive
+Jaguar Land Rover L,Land Rover,Range Rover LWB SVA,5.0,8,15,4-Wheel Drive
+Jaguar Land Rover L,Land Rover,Range Rover MHEV,3.0,6,20,4-Wheel Drive
+Jaguar Land Rover L,Land Rover,Range Rover SVA,5.0,8,16,4-Wheel Drive
+Jaguar Land Rover L,Land Rover,Range Rover Sport,3.0,6,24,4-Wheel Drive
+Jaguar Land Rover L,Land Rover,Range Rover Sport MHEV,3.0,6,21,4-Wheel Drive
+Jaguar Land Rover L,Land Rover,Range Rover Sport SVR,5.0,8,16,4-Wheel Drive
+Jaguar Land Rover L,Land Rover,Range Rover Velar,5.0,8,17,All Wheel Drive
+Jaguar Land Rover L,Land Rover,Range Rover Velar P340 MHEV,3.0,6,22,4-Wheel Drive
+Jaguar Land Rover L,Land Rover,Range Rover Velar P400 MHEV,3.0,6,21,4-Wheel Drive
+Kia,KIA MOTORS CORPORATION,Forte,1.6,4,30,"2-Wheel Drive, Front"
+Kia,KIA MOTORS CORPORATION,Forte FE,2.0,4,35,"2-Wheel Drive, Front"
+Kia,KIA MOTORS CORPORATION,K5,1.6,4,32,"2-Wheel Drive, Front"
+Kia,KIA MOTORS CORPORATION,K5 AWD,1.6,4,29,All Wheel Drive
+Kia,KIA MOTORS CORPORATION,Niro,1.6,4,49,"2-Wheel Drive, Front"
+Kia,KIA MOTORS CORPORATION,Niro FE,1.6,4,50,"2-Wheel Drive, Front"
+Kia,KIA MOTORS CORPORATION,Niro Touring,1.6,4,43,"2-Wheel Drive, Front"
+Kia,KIA MOTORS CORPORATION,Rio,1.6,4,36,"2-Wheel Drive, Front"
+Kia,KIA MOTORS CORPORATION,Sedona,3.3,6,21,"2-Wheel Drive, Front"
+Kia,KIA MOTORS CORPORATION,Seltos AWD,1.6,4,27,All Wheel Drive
+Kia,KIA MOTORS CORPORATION,Seltos FWD,2.0,4,31,"2-Wheel Drive, Front"
+Kia,KIA MOTORS CORPORATION,Sorento AWD,2.5,4,24,All Wheel Drive
+Kia,KIA MOTORS CORPORATION,Sorento FWD,2.5,4,25,"2-Wheel Drive, Front"
+Kia,KIA MOTORS CORPORATION,Sorento Hybrid,1.6,4,37,"2-Wheel Drive, Front"
+Kia,KIA MOTORS CORPORATION,Soul,1.6,4,29,"2-Wheel Drive, Front"
+Kia,KIA MOTORS CORPORATION,Soul Eco dynamics,2.0,4,31,"2-Wheel Drive, Front"
+Kia,KIA MOTORS CORPORATION,Sportage AWD,2.0,4,21,All Wheel Drive
+Kia,KIA MOTORS CORPORATION,Sportage FWD,2.0,4,23,"2-Wheel Drive, Front"
+Kia,KIA MOTORS CORPORATION,Stinger AWD,2.0,4,24,All Wheel Drive
+Kia,KIA MOTORS CORPORATION,Stinger RWD,2.0,4,25,"2-Wheel Drive, Rear"
+Kia,KIA MOTORS CORPORATION,Telluride AWD,3.8,6,21,All Wheel Drive
+Kia,KIA MOTORS CORPORATION,Telluride FWD,3.8,6,23,"2-Wheel Drive, Front"
+Lotus,Lotus Cars Ltd,Evora GT,3.5,6,20,"2-Wheel Drive, Rear"
+MAZDA,MAZDA,CX-3 2WD,2.0,4,31,"2-Wheel Drive, Front"
+MAZDA,MAZDA,CX-3 4WD,2.0,4,29,4-Wheel Drive
+MAZDA,MAZDA,CX-30 2WD,2.5,4,28,"2-Wheel Drive, Front"
+MAZDA,MAZDA,CX-30 4WD,2.5,4,25,4-Wheel Drive
+MAZDA,MAZDA,CX-5 2WD,2.5,4,28,"2-Wheel Drive, Front"
+MAZDA,MAZDA,CX-5 4WD,2.5,4,26,4-Wheel Drive
+MAZDA,MAZDA,CX-9 2WD,2.5,4,24,"2-Wheel Drive, Front"
+MAZDA,MAZDA,CX-9 4WD,2.5,4,23,4-Wheel Drive
+MAZDA,MAZDA,MAZDA2,1.5,4,35,"2-Wheel Drive, Front"
+MAZDA,MAZDA,MAZDA3 4-Door 2WD,2.0,4,31,"2-Wheel Drive, Front"
+MAZDA,MAZDA,MAZDA3 4-Door 4WD,2.5,4,27,4-Wheel Drive
+MAZDA,MAZDA,MAZDA3 5-Door 2WD,2.5,4,29,"2-Wheel Drive, Front"
+MAZDA,MAZDA,MAZDA3 5-Door 4WD,2.5,4,26,4-Wheel Drive
+MAZDA,MAZDA,MAZDA6,2.5,4,26,"2-Wheel Drive, Front"
+MAZDA,MAZDA,MX-5,2.0,4,30,"2-Wheel Drive, Rear"
+Maserati,MASERATI,GHIBLI,3.0,6,20,"2-Wheel Drive, Rear"
+Maserati,MASERATI,GHIBLI S,3.0,6,20,"2-Wheel Drive, Rear"
+Maserati,MASERATI,GHIBLI S Q4,3.0,6,19,All Wheel Drive
+Maserati,MASERATI,GHIBLI TROFEO,3.8,8,16,"2-Wheel Drive, Rear"
+Maserati,MASERATI,LEVANTE,3.0,6,18,All Wheel Drive
+Maserati,MASERATI,LEVANTE GTS,3.8,8,16,All Wheel Drive
+Maserati,MASERATI,LEVANTE S,3.0,6,18,All Wheel Drive
+Maserati,MASERATI,LEVANTE TROFEO,3.8,8,16,All Wheel Drive
+Maserati,MASERATI,QUATTROPORTE S,3.0,6,19,"2-Wheel Drive, Rear"
+Maserati,MASERATI,QUATTROPORTE S Q4,3.0,6,19,All Wheel Drive
+Maserati,MASERATI,QUATTROPORTE TROFEO,3.8,8,16,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,A 220,2.0,4,29,"2-Wheel Drive, Front"
+Mercedes-Benz,Mercedes-Benz,A 220 4MATIC,2.0,4,28,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG A 35 4MATIC,2.0,4,25,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG C 43 4MATIC,3.0,6,21,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG C 43 4MATIC (convertible),3.0,6,22,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG C 43 4MATIC (coupe),3.0,6,22,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG C 63,4.0,8,21,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,AMG C 63 (convertible),4.0,8,20,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,AMG C 63 (coupe),4.0,8,20,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,AMG C 63 S,4.0,8,21,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,AMG C 63 S (convertible),4.0,8,20,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,AMG C 63 S (coupe),4.0,8,20,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,AMG CLA 35 4MATIC,2.0,4,25,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG CLA 45 4MATIC,2.0,4,23,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG CLS53 4MATIC+,3.0,6,23,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG E 63 S 4MATIC+,4.0,8,18,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG E 63 S 4MATIC+ (SW),4.0,8,18,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG E53 4MATIC+,3.0,6,25,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG E53 4MATIC+ (Convertible),3.0,6,23,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG E53 4MATIC+ (Coupe),3.0,6,24,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG G 63,4.0,8,14,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG GLA 35 4MATIC,2.0,4,25,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG GLA 45 4MATIC,2.0,4,23,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG GLB 35 4MATIC,2.0,4,23,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG GLC 43 4MATIC,3.0,6,20,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG GLC 43 4MATIC (coupe),3.0,6,20,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG GLC 63 4MATIC+,4.0,8,17,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG GLC 63 4MATIC+ (coupe),4.0,8,17,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG GLC 63 S 4MATIC+ (coupe),4.0,8,17,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG GLE 53 4MATIC+,3.0,6,19,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG GLE 53 4MATIC+ (coupe),3.0,6,20,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG GLE 63 S 4MATIC+,4.0,8,16,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG GLE 63 S 4MATIC+ (coupe),4.0,8,17,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG GLS 63 4MATIC+,4.0,8,16,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG GT (coupe),4.0,8,17,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,AMG GT (roadster),4.0,8,17,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,AMG GT 43 4MATIC+,3.0,6,22,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG GT 53 4MATIC+,3.0,6,22,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG GT 63 4MATIC+,4.0,8,18,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG GT 63 S 4MATIC+,4.0,8,18,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG GT Black Series,4.0,8,17,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,AMG GT C (coupe),4.0,8,17,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,AMG GT C (roadster),4.0,8,17,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,AMG GT R (coupe),4.0,8,16,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,AMG S 63 4MATIC+ (convertible),4.0,8,17,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,AMG S 63 4MATIC+ (coupe),4.0,8,19,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,C 300,2.0,4,27,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,C 300 (Coupe),2.0,4,27,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,C 300 (convertible),2.0,4,26,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,C 300 4MATIC,2.0,4,27,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,C 300 4MATIC (Coupe),2.0,4,26,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,C 300 4MATIC (convertible),2.0,4,25,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,CLA 250,2.0,4,29,"2-Wheel Drive, Front"
+Mercedes-Benz,Mercedes-Benz,CLA 250 4MATIC,2.0,4,27,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,CLS 450,3.0,6,26,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,CLS 450 4MATIC,3.0,6,25,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,E 350,2.0,4,25,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,E 350 4MATIC,2.0,4,25,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,E 450 (convertible),3.0,6,25,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,E 450 (coupe),3.0,6,26,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,E 450 4MATIC,3.0,6,26,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,E 450 4MATIC (convertible),3.0,6,25,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,E 450 4MATIC (coupe),3.0,6,25,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,E 450 4MATIC All-Terrain (wagon),3.0,6,24,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,G 550,4.0,8,18,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,GLA 250,2.0,4,28,"2-Wheel Drive, Front"
+Mercedes-Benz,Mercedes-Benz,GLA 250 4MATIC,2.0,4,27,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,GLB 250,2.0,4,26,"2-Wheel Drive, Front"
+Mercedes-Benz,Mercedes-Benz,GLB 250 4MATIC,2.0,4,26,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,GLC 300,2.0,4,25,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,GLC 300 4MATIC,2.0,4,23,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,GLC 300 4MATIC (Coupe),2.0,4,24,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,GLE 350,2.0,4,22,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,GLE 350 4MATIC,2.0,4,22,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,GLE 450 4MATIC,3.0,6,23,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,GLE 580 4MATIC,4.0,8,19,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,GLS 450 4MATIC,3.0,6,21,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,GLS 580 4MATIC,4.0,8,18,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,GLS 600 4MATIC Maybach,4.0,8,16,4-Wheel Drive
+Mercedes-Benz,Mercedes-Benz,Metris (Cargo Van),2.0,4,21,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,"Metris (Cargo Van, LWB)",2.0,4,21,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,Metris (Passenger Van),2.0,4,19,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,S 560 (convertible),4.0,8,20,"2-Wheel Drive, Rear"
+Mercedes-Benz,Mercedes-Benz,S 560 4MATIC (coupe),4.0,8,20,4-Wheel Drive
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,MIRAGE,1.2,3,39,"2-Wheel Drive, Front"
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,MIRAGE G4,1.2,3,37,"2-Wheel Drive, Front"
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,Outlander Sport 2WD,2.0,4,27,"2-Wheel Drive, Front"
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,Outlander Sport 4WD,2.0,4,26,4-Wheel Drive
+Nissan,INFINITI,Q50,3.0,6,23,"2-Wheel Drive, Rear"
+Nissan,INFINITI,Q50 AWD,3.0,6,22,All Wheel Drive
+Nissan,INFINITI,Q50 AWD RED SPORT,3.0,6,22,All Wheel Drive
+Nissan,INFINITI,Q50 RED SPORT,3.0,6,22,"2-Wheel Drive, Rear"
+Nissan,INFINITI,Q60,3.0,6,22,"2-Wheel Drive, Rear"
+Nissan,INFINITI,Q60 AWD,3.0,6,22,All Wheel Drive
+Nissan,INFINITI,Q60 AWD RED SPORT,3.0,6,21,All Wheel Drive
+Nissan,INFINITI,Q60 RED SPORT,3.0,6,22,"2-Wheel Drive, Rear"
+Nissan,INFINITI,QX50,2.0,4,26,"2-Wheel Drive, Front"
+Nissan,INFINITI,QX50 AWD,2.0,4,25,All Wheel Drive
+Nissan,INFINITI,QX80 2WD,5.6,8,16,"2-Wheel Drive, Rear"
+Nissan,INFINITI,QX80 4WD,5.6,8,15,4-Wheel Drive
+Nissan,NISSAN,370Z,3.7,6,20,"2-Wheel Drive, Rear"
+Nissan,NISSAN,ALTIMA,2.5,4,32,"2-Wheel Drive, Front"
+Nissan,NISSAN,ALTIMA AWD,2.5,4,30,All Wheel Drive
+Nissan,NISSAN,ALTIMA AWD SR/PLATINUM,2.5,4,29,All Wheel Drive
+Nissan,NISSAN,ALTIMA SR,2.5,4,31,"2-Wheel Drive, Front"
+Nissan,NISSAN,ALTIMA SR/PLATINUM,2.0,4,29,"2-Wheel Drive, Front"
+Nissan,NISSAN,ALTIMA SV/SL,2.5,4,31,"2-Wheel Drive, Front"
+Nissan,NISSAN,ARMADA 2WD,5.6,8,16,"2-Wheel Drive, Rear"
+Nissan,NISSAN,ARMADA 4WD,5.6,8,15,4-Wheel Drive
+Nissan,NISSAN,FRONTIER 2WD,3.8,6,20,"2-Wheel Drive, Rear"
+Nissan,NISSAN,FRONTIER 4WD,3.8,6,19,Part-time 4-Wheel Drive
+Nissan,NISSAN,GT-R,3.8,6,18,All Wheel Drive
+Nissan,NISSAN,KICKS,1.6,4,33,"2-Wheel Drive, Front"
+Nissan,NISSAN,MAXIMA,3.5,6,24,"2-Wheel Drive, Front"
+Nissan,NISSAN,MURANO AWD,3.5,6,23,All Wheel Drive
+Nissan,NISSAN,MURANO FWD,3.5,6,23,"2-Wheel Drive, Front"
+Nissan,NISSAN,NV200 CARGO VAN,2.0,4,25,"2-Wheel Drive, Front"
+Nissan,NISSAN,ROGUE AWD,2.5,4,29,All Wheel Drive
+Nissan,NISSAN,ROGUE AWD SV/SL/PLATINUM,2.5,4,28,All Wheel Drive
+Nissan,NISSAN,ROGUE FWD,2.5,4,30,"2-Wheel Drive, Front"
+Nissan,NISSAN,ROGUE FWD SV/SL/PLATINUM,2.5,4,29,"2-Wheel Drive, Front"
+Nissan,NISSAN,ROGUE SPORT,2.0,4,28,"2-Wheel Drive, Front"
+Nissan,NISSAN,ROGUE SPORT AWD,2.0,4,27,All Wheel Drive
+Nissan,NISSAN,SENTRA,2.0,4,33,"2-Wheel Drive, Front"
+Nissan,NISSAN,SENTRA SR,2.0,4,32,"2-Wheel Drive, Front"
+Nissan,NISSAN,TITAN 2WD,5.6,8,18,"2-Wheel Drive, Rear"
+Nissan,NISSAN,TITAN 4WD,5.6,8,18,Part-time 4-Wheel Drive
+Nissan,NISSAN,TITAN 4WD PRO-4X,5.6,8,17,Part-time 4-Wheel Drive
+Nissan,NISSAN,VERSA,1.6,4,35,"2-Wheel Drive, Front"
+Porsche,Porsche,718 Boxster,2.0,4,24,"2-Wheel Drive, Rear"
+Porsche,Porsche,718 Boxster GTS 4.0,4.0,6,21,"2-Wheel Drive, Rear"
+Porsche,Porsche,718 Boxster S,2.5,4,22,"2-Wheel Drive, Rear"
+Porsche,Porsche,718 Boxster T,2.0,4,23,"2-Wheel Drive, Rear"
+Porsche,Porsche,718 Cayman,2.0,4,24,"2-Wheel Drive, Rear"
+Porsche,Porsche,718 Cayman GT4,4.0,6,20,"2-Wheel Drive, Rear"
+Porsche,Porsche,718 Cayman GTS 4.0,4.0,6,21,"2-Wheel Drive, Rear"
+Porsche,Porsche,718 Cayman S,2.5,4,22,"2-Wheel Drive, Rear"
+Porsche,Porsche,718 Cayman T,2.0,4,23,"2-Wheel Drive, Rear"
+Porsche,Porsche,718 Spyder,4.0,6,20,"2-Wheel Drive, Rear"
+Porsche,Porsche,911 Carrera,3.0,6,20,"2-Wheel Drive, Rear"
+Porsche,Porsche,911 Carrera 4,3.0,6,20,All Wheel Drive
+Porsche,Porsche,911 Carrera 4 Cabriolet,3.0,6,20,All Wheel Drive
+Porsche,Porsche,911 Carrera 4S,3.0,6,20,All Wheel Drive
+Porsche,Porsche,911 Carrera 4S Cabriolet,3.0,6,20,All Wheel Drive
+Porsche,Porsche,911 Carrera Cabriolet,3.0,6,20,"2-Wheel Drive, Rear"
+Porsche,Porsche,911 Carrera S,3.0,6,20,"2-Wheel Drive, Rear"
+Porsche,Porsche,911 Carrera S Cabriolet,3.0,6,20,"2-Wheel Drive, Rear"
+Porsche,Porsche,911 Targa 4,3.0,6,20,All Wheel Drive
+Porsche,Porsche,911 Targa 4S,3.0,6,20,All Wheel Drive
+Porsche,Porsche,911 Turbo,3.7,6,17,All Wheel Drive
+Porsche,Porsche,911 Turbo Cabriolet,3.7,6,17,All Wheel Drive
+Porsche,Porsche,911 Turbo S,3.7,6,17,All Wheel Drive
+Porsche,Porsche,911 Turbo S Cabriolet,3.7,6,17,All Wheel Drive
+Porsche,Porsche,Cayenne,3.0,6,20,All Wheel Drive
+Porsche,Porsche,Cayenne Coupé,3.0,6,20,All Wheel Drive
+Porsche,Porsche,Cayenne GTS,4.0,8,17,All Wheel Drive
+Porsche,Porsche,Cayenne GTS Coupe,4.0,8,17,All Wheel Drive
+Porsche,Porsche,Cayenne S,2.9,6,20,All Wheel Drive
+Porsche,Porsche,Cayenne S Coupé,2.9,6,19,All Wheel Drive
+Porsche,Porsche,Cayenne Turbo,4.0,8,17,All Wheel Drive
+Porsche,Porsche,Cayenne Turbo Coupé,4.0,8,17,All Wheel Drive
+Porsche,Porsche,Macan,2.0,4,21,All Wheel Drive
+Porsche,Porsche,Macan GTS,2.9,6,19,All Wheel Drive
+Porsche,Porsche,Macan S,3.0,6,20,All Wheel Drive
+Porsche,Porsche,Macan Turbo,2.9,6,19,All Wheel Drive
+Porsche,Porsche,Panamera,2.9,6,20,"2-Wheel Drive, Rear"
+Porsche,Porsche,Panamera 4,2.9,6,20,All Wheel Drive
+Porsche,Porsche,Panamera 4 Executive,2.9,6,19,All Wheel Drive
+Porsche,Porsche,Panamera 4 ST,2.9,6,20,All Wheel Drive
+Porsche,Porsche,Panamera 4S,2.9,6,20,All Wheel Drive
+Porsche,Porsche,Panamera GTS,4.0,8,17,All Wheel Drive
+Porsche,Porsche,Panamera GTS ST,4.0,8,17,All Wheel Drive
+Porsche,Porsche,Panamera Turbo S Executive,4.0,8,17,All Wheel Drive
+Porsche,Porsche,Panamera Turbo S ST,4.0,8,17,All Wheel Drive
+Rolls-Royce,Rolls-Royce Motor Cars Limited,Cullinan,6.7,12,14,All Wheel Drive
+Rolls-Royce,Rolls-Royce Motor Cars Limited,Cullinan Black Badge,6.7,12,14,All Wheel Drive
+Rolls-Royce,Rolls-Royce Motor Cars Limited,Dawn,6.6,12,14,"2-Wheel Drive, Rear"
+Rolls-Royce,Rolls-Royce Motor Cars Limited,Dawn Black Badge,6.6,12,14,"2-Wheel Drive, Rear"
+Rolls-Royce,Rolls-Royce Motor Cars Limited,Ghost,6.7,12,14,All Wheel Drive
+Rolls-Royce,Rolls-Royce Motor Cars Limited,Ghost EWB,6.7,12,14,All Wheel Drive
+Rolls-Royce,Rolls-Royce Motor Cars Limited,Phantom,6.7,12,14,"2-Wheel Drive, Rear"
+Rolls-Royce,Rolls-Royce Motor Cars Limited,Phantom EWB,6.7,12,14,"2-Wheel Drive, Rear"
+Rolls-Royce,Rolls-Royce Motor Cars Limited,Wraith,6.6,12,14,"2-Wheel Drive, Rear"
+Rolls-Royce,Rolls-Royce Motor Cars Limited,Wraith Black Badge,6.6,12,14,"2-Wheel Drive, Rear"
+Subaru,Subaru,ASCENT AWD,2.4,4,23,All Wheel Drive
+Subaru,Subaru,ASCENT LIMITED/TOURING AWD,2.4,4,22,All Wheel Drive
+Subaru,Subaru,CROSSTREK AWD,2.0,4,30,All Wheel Drive
+Subaru,Subaru,FORESTER AWD,2.5,4,29,All Wheel Drive
+Subaru,Subaru,IMPREZA 4-Door,2.0,4,32,All Wheel Drive
+Subaru,Subaru,IMPREZA 4-Door SPORT,2.0,4,30,All Wheel Drive
+Subaru,Subaru,IMPREZA 5-Door,2.0,4,31,All Wheel Drive
+Subaru,Subaru,IMPREZA 5-Door SPORT,2.0,4,30,All Wheel Drive
+Subaru,Subaru,LEGACY,2.4,4,27,All Wheel Drive
+Subaru,Subaru,OUTBACK AWD,2.4,4,26,All Wheel Drive
+Subaru,Subaru,WRX,2.0,4,21,All Wheel Drive
+Toyota,LEXUS,ES 250 AWD,2.5,4,28,All Wheel Drive
+Toyota,LEXUS,ES 300h,2.5,4,44,"2-Wheel Drive, Front"
+Toyota,LEXUS,ES 350,3.5,6,26,"2-Wheel Drive, Front"
+Toyota,LEXUS,ES 350 F SPORT,3.5,6,25,"2-Wheel Drive, Front"
+Toyota,LEXUS,GX 460,4.6,8,16,4-Wheel Drive
+Toyota,LEXUS,IS 300,2.0,4,25,"2-Wheel Drive, Rear"
+Toyota,LEXUS,IS 300 AWD,3.5,6,22,All Wheel Drive
+Toyota,LEXUS,IS 350,3.5,6,23,"2-Wheel Drive, Rear"
+Toyota,LEXUS,IS 350 AWD,3.5,6,22,All Wheel Drive
+Toyota,LEXUS,LC 500,5.0,8,19,"2-Wheel Drive, Rear"
+Toyota,LEXUS,LC 500 CONVERTIBLE,5.0,8,18,"2-Wheel Drive, Rear"
+Toyota,LEXUS,LC 500h,3.5,6,29,"2-Wheel Drive, Rear"
+Toyota,LEXUS,LS 500,3.4,6,22,"2-Wheel Drive, Rear"
+Toyota,LEXUS,LS 500 AWD,3.4,6,21,All Wheel Drive
+Toyota,LEXUS,LS 500h,3.5,6,28,"2-Wheel Drive, Rear"
+Toyota,LEXUS,LS 500h AWD,3.5,6,26,All Wheel Drive
+Toyota,LEXUS,LX 570,5.7,8,14,4-Wheel Drive
+Toyota,LEXUS,NX 300,2.0,4,25,"2-Wheel Drive, Front"
+Toyota,LEXUS,NX 300 AWD,2.0,4,24,All Wheel Drive
+Toyota,LEXUS,NX 300 AWD F SPORT,2.0,4,24,All Wheel Drive
+Toyota,LEXUS,NX 300h AWD,2.5,4,31,All Wheel Drive
+Toyota,LEXUS,RC 300,2.0,4,25,"2-Wheel Drive, Rear"
+Toyota,LEXUS,RC 300 AWD,3.5,6,22,All Wheel Drive
+Toyota,LEXUS,RC 350,3.5,6,23,"2-Wheel Drive, Rear"
+Toyota,LEXUS,RC 350 AWD,3.5,6,22,All Wheel Drive
+Toyota,LEXUS,RC F,5.0,8,19,"2-Wheel Drive, Rear"
+Toyota,LEXUS,RX 350,3.5,6,23,"2-Wheel Drive, Front"
+Toyota,LEXUS,RX 350 AWD,3.5,6,22,All Wheel Drive
+Toyota,LEXUS,RX 350 L,3.5,6,22,"2-Wheel Drive, Front"
+Toyota,LEXUS,RX 350 L AWD,3.5,6,21,All Wheel Drive
+Toyota,LEXUS,RX 450h AWD,3.5,6,30,All Wheel Drive
+Toyota,LEXUS,RX 450h L AWD,3.5,6,29,All Wheel Drive
+Toyota,LEXUS,UX 200,2.0,4,32,"2-Wheel Drive, Front"
+Toyota,LEXUS,UX 250h,2.0,4,42,"2-Wheel Drive, Front"
+Toyota,LEXUS,UX 250h AWD,2.0,4,39,All Wheel Drive
+Toyota,TOYOTA,4RUNNER 2WD,4.0,6,17,"2-Wheel Drive, Rear"
+Toyota,TOYOTA,4RUNNER 4WD,4.0,6,17,All Wheel Drive
+Toyota,TOYOTA,AVALON,3.5,6,25,"2-Wheel Drive, Front"
+Toyota,TOYOTA,AVALON AWD,2.5,4,28,All Wheel Drive
+Toyota,TOYOTA,AVALON HYBRID,2.5,4,43,"2-Wheel Drive, Front"
+Toyota,TOYOTA,AVALON HYBRID XLE,2.5,4,44,"2-Wheel Drive, Front"
+Toyota,TOYOTA,AVALON TRD,3.5,6,25,"2-Wheel Drive, Front"
+Toyota,TOYOTA,AVALON XLE,3.5,6,26,"2-Wheel Drive, Front"
+Toyota,TOYOTA,C-HR,2.0,4,29,"2-Wheel Drive, Front"
+Toyota,TOYOTA,CAMRY,3.5,6,26,"2-Wheel Drive, Front"
+Toyota,TOYOTA,CAMRY AWD LE/SE,2.5,4,29,All Wheel Drive
+Toyota,TOYOTA,CAMRY AWD XLE/XSE,2.5,4,28,All Wheel Drive
+Toyota,TOYOTA,CAMRY HYBRID LE,2.5,4,52,"2-Wheel Drive, Front"
+Toyota,TOYOTA,CAMRY HYBRID SE/XLE/XSE,2.5,4,46,"2-Wheel Drive, Front"
+Toyota,TOYOTA,CAMRY LE/SE,2.5,4,32,"2-Wheel Drive, Front"
+Toyota,TOYOTA,CAMRY TRD,3.5,6,25,"2-Wheel Drive, Front"
+Toyota,TOYOTA,CAMRY XLE/XSE,2.5,4,31,"2-Wheel Drive, Front"
+Toyota,TOYOTA,CAMRY XSE,3.5,6,26,"2-Wheel Drive, Front"
+Toyota,TOYOTA,COROLLA,1.8,4,33,"2-Wheel Drive, Front"
+Toyota,TOYOTA,COROLLA APEX,2.0,4,34,"2-Wheel Drive, Front"
+Toyota,TOYOTA,COROLLA HATCHBACK,2.0,4,35,"2-Wheel Drive, Front"
+Toyota,TOYOTA,COROLLA HATCHBACK MANUAL,2.0,4,31,"2-Wheel Drive, Front"
+Toyota,TOYOTA,COROLLA HATCHBACK XSE,2.0,4,33,"2-Wheel Drive, Front"
+Toyota,TOYOTA,COROLLA HYBRID,1.8,4,52,"2-Wheel Drive, Front"
+Toyota,TOYOTA,COROLLA XLE,1.8,4,32,"2-Wheel Drive, Front"
+Toyota,TOYOTA,COROLLA XSE,2.0,4,34,"2-Wheel Drive, Front"
+Toyota,TOYOTA,HIGHLANDER,3.5,6,24,"2-Wheel Drive, Front"
+Toyota,TOYOTA,HIGHLANDER AWD,3.5,6,23,All Wheel Drive
+Toyota,TOYOTA,HIGHLANDER HYBRID,2.5,4,36,"2-Wheel Drive, Front"
+Toyota,TOYOTA,HIGHLANDER HYBRID AWD,2.5,4,35,All Wheel Drive
+Toyota,TOYOTA,HIGHLANDER HYBRID AWD LTD/PLAT,2.5,4,35,All Wheel Drive
+Toyota,TOYOTA,LAND CRUISER WAGON 4WD,5.7,8,14,4-Wheel Drive
+Toyota,TOYOTA,PRIUS,1.8,4,52,"2-Wheel Drive, Front"
+Toyota,TOYOTA,PRIUS AWD,1.8,4,49,Part-time 4-Wheel Drive
+Toyota,TOYOTA,PRIUS Eco,1.8,4,56,"2-Wheel Drive, Front"
+Toyota,TOYOTA,RAV4,2.5,4,30,"2-Wheel Drive, Front"
+Toyota,TOYOTA,RAV4 AWD,2.5,4,28,All Wheel Drive
+Toyota,TOYOTA,RAV4 AWD LE,2.5,4,30,All Wheel Drive
+Toyota,TOYOTA,RAV4 AWD TRD OFFROAD,2.5,4,28,All Wheel Drive
+Toyota,TOYOTA,RAV4 HYBRID AWD,2.5,4,40,All Wheel Drive
+Toyota,TOYOTA,SEQUOIA 2WD,5.7,8,15,"2-Wheel Drive, Rear"
+Toyota,TOYOTA,SEQUOIA 4WD,5.7,8,14,Part-time 4-Wheel Drive
+Toyota,TOYOTA,SIENNA,2.5,4,36,"2-Wheel Drive, Front"
+Toyota,TOYOTA,SIENNA AWD,2.5,4,35,All Wheel Drive
+Toyota,TOYOTA,TACOMA 2WD,2.7,4,21,"2-Wheel Drive, Rear"
+Toyota,TOYOTA,TACOMA 4WD,2.7,4,20,Part-time 4-Wheel Drive
+Toyota,TOYOTA,TACOMA 4WD D-CAB MT TRD-ORP/PRO,3.5,6,18,Part-time 4-Wheel Drive
+Toyota,TOYOTA,TUNDRA 2WD,5.7,8,15,"2-Wheel Drive, Rear"
+Toyota,TOYOTA,TUNDRA 4WD,5.7,8,14,Part-time 4-Wheel Drive
+Toyota,TOYOTA,VENZA AWD,2.5,4,39,All Wheel Drive
+Volkswagen Group of,Audi,A4 S line quattro,2.0,4,27,All Wheel Drive
+Volkswagen Group of,Audi,A4 allroad quattro,2.0,4,26,All Wheel Drive
+Volkswagen Group of,Audi,A4 quattro,2.0,4,28,All Wheel Drive
+Volkswagen Group of,Audi,A5 Cabriolet quattro,2.0,4,26,All Wheel Drive
+Volkswagen Group of,Audi,A5 Sportback S line quattro,2.0,4,27,All Wheel Drive
+Volkswagen Group of,Audi,A5 Sportback quattro,2.0,4,28,All Wheel Drive
+Volkswagen Group of,Audi,A5 quattro,2.0,4,27,All Wheel Drive
+Volkswagen Group of,Audi,A6 Allroad,3.0,6,22,All Wheel Drive
+Volkswagen Group of,Audi,A6 quattro,2.0,4,26,All Wheel Drive
+Volkswagen Group of,Audi,A7 quattro,3.0,6,24,All Wheel Drive
+Volkswagen Group of,Audi,A8L,3.0,6,21,All Wheel Drive
+Volkswagen Group of,Audi,Q3 S-line quattro,2.0,4,23,All Wheel Drive
+Volkswagen Group of,Audi,Q3 quattro,2.0,4,25,All Wheel Drive
+Volkswagen Group of,Audi,Q5,2.0,4,25,All Wheel Drive
+Volkswagen Group of,Audi,Q5 Sportback,2.0,4,25,All Wheel Drive
+Volkswagen Group of,Audi,Q7,2.0,4,21,All Wheel Drive
+Volkswagen Group of,Audi,Q8,3.0,6,20,All Wheel Drive
+Volkswagen Group of,Audi,R8,5.2,10,16,All Wheel Drive
+Volkswagen Group of,Audi,R8 2WD,5.2,10,17,"2-Wheel Drive, Rear"
+Volkswagen Group of,Audi,R8 Spyder,5.2,10,16,All Wheel Drive
+Volkswagen Group of,Audi,R8 Spyder 2WD,5.2,10,17,"2-Wheel Drive, Rear"
+Volkswagen Group of,Audi,RS 5,2.9,6,20,All Wheel Drive
+Volkswagen Group of,Audi,RS 5 Sportback,2.9,6,21,All Wheel Drive
+Volkswagen Group of,Audi,RS 6 Avant,4.0,8,17,All Wheel Drive
+Volkswagen Group of,Audi,RS 7,4.0,8,17,All Wheel Drive
+Volkswagen Group of,Audi,RS Q8,4.0,8,15,All Wheel Drive
+Volkswagen Group of,Audi,S4,3.0,6,23,All Wheel Drive
+Volkswagen Group of,Audi,S5,3.0,6,23,All Wheel Drive
+Volkswagen Group of,Audi,S5 Cabriolet,3.0,6,22,All Wheel Drive
+Volkswagen Group of,Audi,S5 Sportback,3.0,6,23,All Wheel Drive
+Volkswagen Group of,Audi,S6,2.9,6,22,All Wheel Drive
+Volkswagen Group of,Audi,S7,2.9,6,22,All Wheel Drive
+Volkswagen Group of,Audi,S8,4.0,8,16,All Wheel Drive
+Volkswagen Group of,Audi,SQ5,3.0,6,20,All Wheel Drive
+Volkswagen Group of,Audi,SQ5 Sportback,3.0,6,20,All Wheel Drive
+Volkswagen Group of,Audi,SQ7,4.0,8,17,All Wheel Drive
+Volkswagen Group of,Audi,SQ8,4.0,8,17,All Wheel Drive
+Volkswagen Group of,Audi,TT Coupe quattro,2.0,4,26,All Wheel Drive
+Volkswagen Group of,Audi,TT RS,2.5,5,24,All Wheel Drive
+Volkswagen Group of,Audi,TT Roadster quattro,2.0,4,26,All Wheel Drive
+Volkswagen Group of,Audi,TTS Coupe,2.0,4,25,All Wheel Drive
+Volkswagen Group of,Bentley,Bentayga,4.0,8,18,All Wheel Drive
+Volkswagen Group of,Bentley,Continental GT,4.0,8,19,All Wheel Drive
+Volkswagen Group of,Bentley,Continental GT Convertible,4.0,8,19,All Wheel Drive
+Volkswagen Group of,Bentley,Flying Spur,4.0,8,17,All Wheel Drive
+Volkswagen Group of,Bugatti,Chiron,8.0,16,11,All Wheel Drive
+Volkswagen Group of,Bugatti,Chiron Pur Sport,8.0,16,10,All Wheel Drive
+Volkswagen Group of,Lamborghini,Aventador Coupe,6.5,12,10,All Wheel Drive
+Volkswagen Group of,Lamborghini,Aventador Roadster,6.5,12,10,All Wheel Drive
+Volkswagen Group of,Lamborghini,Huracan,5.2,10,15,All Wheel Drive
+Volkswagen Group of,Lamborghini,Huracan Spyder,5.2,10,15,All Wheel Drive
+Volkswagen Group of,Lamborghini,Huracan Spyder 2WD,5.2,10,15,"2-Wheel Drive, Rear"
+Volkswagen Group of,Lamborghini,Urus,4.0,8,14,All Wheel Drive
+Volkswagen Group of,Volkswagen,Arteon,2.0,4,25,"2-Wheel Drive, Front"
+Volkswagen Group of,Volkswagen,Arteon 4Motion,2.0,4,24,All Wheel Drive
+Volkswagen Group of,Volkswagen,Atlas,2.0,4,22,"2-Wheel Drive, Front"
+Volkswagen Group of,Volkswagen,Atlas 4Motion,3.6,6,18,All Wheel Drive
+Volkswagen Group of,Volkswagen,Atlas 4Motion 2.0L,2.0,4,22,All Wheel Drive
+Volkswagen Group of,Volkswagen,Atlas Cross Sport,2.0,4,22,"2-Wheel Drive, Front"
+Volkswagen Group of,Volkswagen,Atlas Cross Sport 4Motion,2.0,4,22,All Wheel Drive
+Volkswagen Group of,Volkswagen,GTI,2.0,4,27,"2-Wheel Drive, Front"
+Volkswagen Group of,Volkswagen,Golf,1.4,4,32,"2-Wheel Drive, Front"
+Volkswagen Group of,Volkswagen,Jetta,1.4,4,33,"2-Wheel Drive, Front"
+Volkswagen Group of,Volkswagen,Jetta GLI,2.0,4,28,"2-Wheel Drive, Front"
+Volkswagen Group of,Volkswagen,Passat,2.0,4,28,"2-Wheel Drive, Front"
+Volkswagen Group of,Volkswagen,Tiguan,2.0,4,25,"2-Wheel Drive, Front"
+Volkswagen Group of,Volkswagen,Tiguan 4Motion,2.0,4,24,All Wheel Drive
+Volvo,"Volvo Cars of North America, LLC",S60 AWD,2.0,4,26,All Wheel Drive
+Volvo,"Volvo Cars of North America, LLC",S60 FWD,2.0,4,27,"2-Wheel Drive, Front"
+Volvo,"Volvo Cars of North America, LLC",S90 AWD,2.0,4,25,All Wheel Drive
+Volvo,"Volvo Cars of North America, LLC",V60 CC AWD,2.0,4,25,All Wheel Drive
+Volvo,"Volvo Cars of North America, LLC",V60 FWD,2.0,4,27,"2-Wheel Drive, Front"
+Volvo,"Volvo Cars of North America, LLC",V90 AWD,2.0,4,25,All Wheel Drive
+Volvo,"Volvo Cars of North America, LLC",V90 CC AWD,2.0,4,24,All Wheel Drive
+Volvo,"Volvo Cars of North America, LLC",V90 FWD,2.0,4,26,"2-Wheel Drive, Front"
+Volvo,"Volvo Cars of North America, LLC",XC40 AWD,2.0,4,25,All Wheel Drive
+Volvo,"Volvo Cars of North America, LLC",XC40 FWD,2.0,4,26,"2-Wheel Drive, Front"
+Volvo,"Volvo Cars of North America, LLC",XC60 AWD,2.0,4,23,All Wheel Drive
+Volvo,"Volvo Cars of North America, LLC",XC60 FWD,2.0,4,25,"2-Wheel Drive, Front"
+Volvo,"Volvo Cars of North America, LLC",XC90 AWD,2.0,4,22,All Wheel Drive
+Volvo,"Volvo Cars of North America, LLC",XC90 FWD,2.0,4,25,"2-Wheel Drive, Front"
+aston martin,Aston Martin Lagonda Ltd,DB11 V12,5.2,12,18,"2-Wheel Drive, Rear"
+aston martin,Aston Martin Lagonda Ltd,DB11 V8,4.0,8,20,"2-Wheel Drive, Rear"
+aston martin,Aston Martin Lagonda Ltd,DBS,5.2,12,17,"2-Wheel Drive, Rear"
+aston martin,Aston Martin Lagonda Ltd,DBX V8,4.0,8,15,4-Wheel Drive
+aston martin,Aston Martin Lagonda Ltd,Vantage Manual,4.0,8,17,"2-Wheel Drive, Rear"
+aston martin,Aston Martin Lagonda Ltd,Vantage V8,4.0,8,20,"2-Wheel Drive, Rear"

@@ -1,0 +1,97 @@
+University,Number_students,Score_Result,Type,City,State
+Auburn University,26641,33.4,Public,Auburn,AL
+Boston College,12904,45.9,Private (non-profit),Chestnut Hill,MA
+Boston University,25662,68.4,Private (non-profit),Boston,MA
+Brandeis University,5375,50.3,Private (non-profit),Waltham,MA
+Brown University,9391,70.0,Private (non-profit),Providence,RI
+California Institute of Technology,2240,94.5,Private (non-profit),Pasadena,CA
+Carnegie Mellon University,13430,81.3,Private (non-profit),Pittsburgh,PA
+Case Western Reserve University,10654,60.0,Private (non-profit),Cleveland,OH
+Clemson University,21436,30.7,Public,Clemson,SC
+Columbia University,26586,87.0,Private (non-profit),New York,NY
+Cornell University,22319,85.1,Private (non-profit),Ithaca,NY
+Dartmouth College,6247,62.4,Private (non-profit),Hanover,NH
+Drexel University,19801,41.1,Private (non-profit),Philadelphia,PA
+Duke University,15309,84.0,Private (non-profit),Durham,NC
+Emory University,12735,64.0,Private (non-profit),Atlanta,GA
+Florida International University,34203,38.5,Public,Miami,FL
+Florida State University,38520,48.4,Public,Tallahassee,FL
+George Mason University,29377,48.1,Public,Fairfax,VA
+George Washington University,23488,53.8,Private (non-profit),Washington,DC
+Georgetown University,16279,61.8,Private (non-profit),Washington,DC
+Georgia Institute of Technology,21372,75.4,Public,Atlanta,GA
+Georgia State University,29290,41.2,Public,Atlanta,GA
+Harvard University,20823,93.0,Private (non-profit),Cambridge,MA
+Iowa State University,32469,42.4,Public,Ames,IA
+Johns Hopkins University,16171,89.2,Private (non-profit),Baltimore,MD
+Kansas State University,21536,31.9,Public,Manhattan,KS
+Massachusetts Institute of Technology,11247,93.6,Private (non-profit),Cambridge,MA
+Michigan State University,44789,63.9,Public,East Lansing,MI
+Mississippi State University,26121,27.3,Public,Starkville,MS
+Montana State University,14357,34.8,Public,Bozeman,MT
+New Jersey Institute of Technology,9279,36.3,Public,Newark,NJ
+New York University,44466,81.1,Private (non-profit),New York,NY
+North Carolina State University,30231,46.4,Public,Raleigh,NC
+Northeastern University,19575,55.6,Private (non-profit),Boston,MA
+Northwestern University,17951,83.5,Private (non-profit),Evanston,IL
+Oklahoma State University,21494,39.3,Public,Stillwater,OK
+Oregon State University,24798,43.4,Public,Corvallis,OR
+Princeton University,7983,93.2,Private (non-profit),Princeton,NJ
+Rensselaer Polytechnic Institute,7798,40.9,Private (non-profit),Troy,NY
+Rice University,6667,61.7,Private (non-profit),Houston,TX
+Stanford University,16135,94.3,Private (non-profit),Stanford,CA
+Stony Brook University,24201,46.7,Public,Stony Brook,NY
+Syracuse University,20236,47.4,Private (non-profit),Syracuse,NY
+Temple University,35814,46.3,Public,Philadelphia,PA
+Texas A&M University,60818,55.3,Public,College Station,TX
+Texas Tech University,33015,34.0,Public,Lubbock,TX
+Tufts University,11017,58.0,Private (non-profit),Medford,MA
+Tulane University,11185,45.8,Private (non-profit),New Orleans,LA
+University at Buffalo,25849,49.0,Public,Buffalo,NY
+University of Alabama,35120,41.1,Public,Tuscaloosa,AL
+University of Alabama at Birmingham,16927,55.7,Public,Birmingham,AL
+University of Arizona,39124,61.8,Public,Tucson,AZ
+University of Arkansas,24754,29.4,Public,Fayetteville,AR
+"University of California, Berkeley",41081,88.3,Public,Berkeley,CA
+"University of California, Davis",39164,69.7,Public,Davis,CA
+"University of California, Irvine",32706,62.3,Public,Irvine,CA
+"University of California, Los Angeles",41066,86.8,Public,Los Angeles,CA
+"University of California, Riverside",22272,50.1,Public,Riverside,CA
+"University of California, San Diego",33579,78.8,Public,San Diego,CA
+"University of California, Santa Barbara",24089,69.6,Public,Santa Barbara,CA
+"University of California, Santa Cruz",18783,55.2,Public,Santa Cruz,CA
+University of Central Florida,56228,35.0,Public,Orlando,FL
+University of Chicago,13833,90.2,Private (non-profit),Chicago,IL
+University of Cincinnati,28434,49.1,Public,Cincinnati,OH
+University of Colorado Boulder,33186,59.6,Public,Boulder,CO
+University of Connecticut,32446,42.7,Public,Storrs,CT
+University of Delaware,20566,47.3,Public,Newark,DE
+University of Florida,46642,55.4,Public,Gainesville,FL
+University of Georgia,35164,42.3,Public,Athens,GA
+University of Houston,44128,39.4,Public,Houston,TX
+University of Illinois at Chicago,27031,49.6,Public,Chicago,IL
+University of Iowa,28945,51.3,Public,Iowa City,IA
+University of Kansas,24526,42.1,Public,Lawrence,KS
+University of Kentucky,27078,39.0,Public,Lexington,KY
+"University of Maryland, College Park",33108,62.8,Public,College Park,MD
+University of Miami,15971,51.2,Private (non-profit),Coral Gables,FL
+University of Minnesota,61120,64.1,Public,Minneapolis,MN
+"University of Nevada, Las Vegas",24982,31.1,Public,Las Vegas,NV
+University of North Carolina at Chapel Hill,35419,69.9,Public,Chapel Hill,NC
+University of Notre Dame,12104,56.9,Private (non-profit),Notre Dame,IN
+University of Oregon,22143,47.7,Public,Eugene,OR
+University of Pennsylvania,20578,89.6,Private (non-profit),Philadelphia,PA
+University of Rochester,9824,55.6,Private (non-profit),Rochester,NY
+University of Southern California,36929,68.1,Private (non-profit),Los Angeles,CA
+University of Texas at Arlington,28835,31.2,Public,Arlington,TX
+University of Texas at Austin,49165,75.4,Public,Austin,TX
+University of Texas at Dallas,22757,46.0,Public,Richardson,TX
+University of Texas at El Paso,17089,28.0,Public,El Paso,TX
+University of Utah,30365,51.7,Public,Salt Lake City,UT
+University of Washington,45692,81.6,Public,Seattle,WA
+Vanderbilt University,12006,60.3,Private (non-profit),Nashville,TN
+Virginia Polytechnic Institute and State University,32838,50.4,Public,Blacksburg,VA
+Washington State University,27957,44.2,Public,Pullman,WA
+Wayne State University,22295,44.4,Public,Detroit,MI
+West Virginia University,25966,35.2,Public,Morgantown,WV
+Yale University,12402,91.7,Private (non-profit),New Haven,CT
