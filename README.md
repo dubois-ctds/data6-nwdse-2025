@@ -6,7 +6,9 @@ These resources are part of the **Data 6** curriculum and are designed to suppor
 
 ## Wed June 25 2025 Workshop Overview
 
-We are offering **two in-person workshops**:
+The overview workshop slidedeck (which includes our closing instructor panel) is in Google Slides: [https://tinyurl.com/data6-workshop-2025](https://docs.google.com/presentation/d/1Fxz1z9PlZYHCYY8xmDsljaeYItMzLMX6BZ4dniDoFDM/edit?usp=sharing).
+
+There were two **two in-person workshops**:
 
 ### 9:30 AM - Data Science Fundamentals
 
@@ -42,7 +44,7 @@ While we have piloted this course already at a few institutions, we are in the p
 
 ## Contact us
 > [!NOTE]
-> If you would like to get access to the Solutions Drive and/or offer the Data 6 curriculum, please fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfxzVRNQe-YbpADEl5orccEKlL9F_kr86EhVCo5FTytlTVqrQ/viewform?usp=dialog) and we will keep you in the loop!
+> If you would like to get access to the Solutions Drive and/or offer the Data 6 curriculum, please fill out this Google Form ([https://tinyurl.com/data6-interest25](https://docs.google.com/forms/d/e/1FAIpQLSfxzVRNQe-YbpADEl5orccEKlL9F_kr86EhVCo5FTytlTVqrQ/viewform?usp=dialog)) and we will keep you in the loop!
 
 ---
 
