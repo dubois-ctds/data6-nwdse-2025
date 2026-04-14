@@ -1,0 +1,2 @@
+# Berkeley Data 8 library used by workshop notebooks (Table, etc.)
+datascience>=0.17.6
